@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vinda ao meu perfil 🖤
 
-<!--
-**HadesHatar/HadesHatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rafael ALves
 
-Here are some ideas to get you started:
+- Estou estudando o Alura
+- estou desenvolvendo e apredendo JavaScript
+- utilizo essa area para minha organização e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### se vocẽ quiser entrar em contato comigo segue meu email 📧
+
+rafael.sales9889seila@gmail.com
+
+@015_rafael00
